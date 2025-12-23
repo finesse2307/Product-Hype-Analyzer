@@ -1,0 +1,5 @@
+product_id,product_name,company_name,category,launch_date,initial_price,stock_ticker,is_public_company,primary_color_theme,unique_feature
+1,Stanley Quencher,Stanley 1913,Tumbler,2016-01-01,45.0,,0,Pastel Pink,Handle + Straw + 40oz capacity
+2,Owala FreeSip,Trove Brands,Water Bottle,2020-03-01,32.0,,0,Multi-color combinations,Dual-function spout (sip or chug)
+3,Hydro Flask,Helen of Troy,Water Bottle,2009-01-01,44.95,HELE,1,Pastel colors,TempShield insulation
+4,YETI Rambler,YETI Holdings,Tumbler,2014-01-01,35.0,YETI,1,Outdoor/rugged colors,MagSlider lid + durability

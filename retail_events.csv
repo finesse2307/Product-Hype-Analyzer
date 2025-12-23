@@ -1,0 +1,10 @@
+event_id,product_id,event_date,event_type,event_description,retailer,is_limited_edition,estimated_units_sold,resale_premium_pct
+1,1,2023-01-15,Sellout,Valentine's Day pink sold out nationwide,Target,1,50000.0,150.0
+2,1,2023-11-24,Sellout,Black Friday release - stampede reported,Target,1,75000.0,200.0
+3,1,2024-02-01,Collab,Starbucks collaboration release,Starbucks,1,100000.0,180.0
+4,2,2023-06-15,Launch,Bowala exclusive colorway launch,Urban Outfitters,1,30000.0,250.0
+5,2,2023-09-01,Sellout,All Target exclusives sold out in under 1 hour,Target,1,45000.0,200.0
+6,2,2024-03-15,Collab,Disney collaboration announced,Disney Store,1,60000.0,175.0
+7,3,2019-08-15,PR,VSCO girl trend peak - featured in NYT,,0,,50.0
+8,3,2019-12-01,Sellout,Holiday colors sold out,REI,1,40000.0,75.0
+9,4,2020-07-04,Launch,Limited edition USA flag collection,YETI.com,1,25000.0,80.0
